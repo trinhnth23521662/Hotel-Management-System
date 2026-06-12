@@ -200,8 +200,21 @@ npm run dev
 
 ## Live Demo
 
+🌐 **Website:** 
+
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://trinhnth23521662.github.io/Hotel-Management-System/)
 
+### Demo Accounts
+
+Use one of the following accounts to explore the system:
+
+| Role | Username | Password |
+|--------|----------|----------|
+| Director | `giamdoc01` | `123456` |
+| Receptionist | `letan01` | `123456` |
+| Manager | `quanly01` | `123456` |
+
+> These accounts are provided for demonstration and testing purposes only.
 
 ## Academic Information
 
