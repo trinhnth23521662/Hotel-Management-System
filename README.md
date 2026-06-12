@@ -270,6 +270,8 @@ npm run dev
 | Nguyễn Thị Huệ Trinh | 23521662   |
 | Đinh Nguyễn Anh Thư  | 23521534   |
 | Tou Prong Ma Tiêm    | 23521566   |
+| Võ Ngọc Anh Thy      | 23521565   |
+| Phạm Ngọc Trúc Quỳnh | 23521334   |
 
 ---
 
